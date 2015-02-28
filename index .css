@@ -1,0 +1,30 @@
+body
+{
+	background-color: rgb(136, 132, 132);
+}
+h1
+{
+	font-family: Courier;
+	color: rgb(2, 71, 126);
+}
+input
+{
+	font-family: Courier;
+	color: rgb(11, 156, 23);
+}
+#tryagain
+{
+	position: absolute;
+	top:60px;
+	left:560px;
+	font-family: Courier;
+	font-size: 25px;
+	height: 35px;
+	background-color: blue;
+	display: none;
+
+}
+#caution
+{
+	color:rgb(240, 212, 12);
+}
